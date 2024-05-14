@@ -1,0 +1,6 @@
+/.idea
+/.model
+/venv
+__pycache__
+.DS_Store
+./.gitignore
